@@ -1,0 +1,18 @@
+h1{
+  color: red;
+  font-size: 35px;
+}
+img{
+  height: 70%;
+  width: 70%
+}
+body{
+  margin-left: 400px;
+
+    font-family: fantasy;
+    margin-top:  100px;
+    margin-left: 400px;
+    background-color: yellow;
+    border-style: hidden;
+    padding: 25px;
+  }
