@@ -1,4 +1,4 @@
-# {hightech-computer-services}
+# hightech-computer-services
 #### To help my clients, {25/06/2018}
 #### By **{hightech-computer-service**
 ## Description
