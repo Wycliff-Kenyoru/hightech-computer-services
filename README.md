@@ -1,6 +1,6 @@
 # hightech-computer-services
-#### To help my clients, {25/06/2018}
-#### By **{hightech-computer-service**
+#### To help my clients, {25/06/2018
+#### By **hightech-computer-service**
 ## Description
 To help my customers reach my services when need then or need clarifications 
 ## Setup/Installation Requirements
